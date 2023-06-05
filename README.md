@@ -14,7 +14,7 @@ There will be some projects for Drogon Web server.
 
 ## Install Drogon on Mac M1 (arm native)
 
-These is my install guide for Mac M1 running on Arm native processor (Homebrew).
+Here is my install guide for Mac M1 running on Arm native processor (Homebrew).
 
 1. It requires Xcode installed
 2. Install Drogon dependencies: *brew upgrade ; brew install jsoncpp ossp-uuid zlib-devel openssl*
